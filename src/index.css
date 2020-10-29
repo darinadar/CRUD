@@ -1,0 +1,21 @@
+body{
+  background-image: url(https://i1.wp.com/www.busiweek.com/wp-content/uploads/2020/06/Emirates-the-world%E2%80%99s-largest-international-airline.jpg?resize=1000%2C642&ssl=1);
+  background-size: cover;
+  
+}
+
+
+.App{
+  width: 400px;
+  margin: 40px auto;
+  font-family: 'Times New Roman', Times;
+}
+
+#contact-form input{
+  background-color: lightskyblue;
+  border: 0;
+  width: 200px;
+  height: 50px;
+  padding:  0 20px;
+  cursor: pointer;
+}
